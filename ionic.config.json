@@ -1,0 +1,7 @@
+{
+  "name": "ponal-120-recrearte-ionic-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
